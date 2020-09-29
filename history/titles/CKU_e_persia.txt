@@ -98,10 +98,16 @@
 	}
 #}
 # timurids = {
-	k_khorasan = {
+	e_timurids = {
 		1405.2.20 = {
 			holder = CKU_timurids_2
 			liege = 0
+		}
+	}
+	}
+	k_khorasan = {
+		1405.2.20 = {
+			holder = CKU_timurids_2
 		}
 	}
 	d_herat = {

@@ -1,0 +1,40 @@
+CKU_timurid = {
+	name = "dynn_timurid"
+	culture = "turkish"
+}
+CKU_ardalan = {
+	name = "dynn_ardalan"
+	culture = "kurdish"
+}
+CKU_khorishidi = {
+	name = "dynn_khorishidi"
+	culture = "kurdish"
+}
+CKU_eshaqvand = {
+	name = "dynn_eshaqvand"
+	culture = "daylamite"
+}
+CKU_kiya = {
+	name = "dynn_kiya"
+	culture = "daylamite"
+}
+CKU_marashi = {
+	name = "marashi"
+	culture = "daylamite"
+}
+CKU_mihrabanid = {
+	name = "dynn_mihrabanid"
+	culture = "persian"
+}
+CKU_mirwari = {
+	name = "dynn_mirwari"
+	culture = "baloch"
+}
+CKU_miri = {
+	name "dynn_miri"
+	culture = "kashmiri"
+}
+CKU_namgyal = {
+	name = "dynn_namgyal"
+	culture = "kashmiri"
+}

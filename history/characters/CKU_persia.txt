@@ -1,0 +1,181 @@
+# Ajam = {
+	CKU_ajam_1 = {
+		name = "Muhammad bin Baysonqor"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = trukish
+		1418.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Ardalan = {
+	CKU_ardalan_1 = {
+		name = "Bawa"
+		dynasty = CKU_ardalan
+		religion = muwalladi
+		culture = kurdish
+		1381.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Luristan = {
+	CKU_luristan_1 = {
+		name = "Malik Hussein"
+		dynasty = CKU_khorishidi
+		religion = muwalladi
+		culture = kurdish
+		1394.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Biapas = {
+	CKU_Biapas_1 = {
+		name = "Ala al-Din"
+		dynasty = CKU_eshaqvand
+		culture = daylamite
+		religion = muwalladi
+		1410.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Gilan = {
+	CKU_gilan_1 = {
+		name = "Sayyed Naser"
+		dynasty = CKU_kiya
+		religion = ismaili
+		culture = daylamite
+		1411.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Mazandaran = {
+	CKU_mazandaran_1 = {
+		name = "Kamal al-Din"
+		dynasty = CKU_marashi
+		culture = daylamite
+		religion = ismaili
+		1424.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Timurids = {
+	CKU_timurids_1 = {
+		name = "Timur"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = trukish
+		1336.4.9 = { 
+			birth = yes
+		}
+		1405.2.18 = {
+			death yes
+		}
+	}
+	CKU_timurids_2 = {
+		name = "Sahrokh"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = turkish
+		1377.20.8 = {
+			birth = yes
+		}
+		trait = just
+		trait = education_learning_3
+		trait = shrewd
+		father = CKU_timurids_1
+	}
+#}
+# Fars = {
+	CKU_fars_1 = {
+		name = "Abdallah bin Ibrahim"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = turkish
+		1433.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Khorasan  = {
+	CKU_khorasan_1 = {
+		name = "babur bin Baysunkur"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = turkish
+		1423.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Afghanistan = {
+	CKU_afghanistan_1 = {
+		name = "Karashtar bin Soyurghatmish"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = turkish
+		1425.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Sistan = {
+	CKU_sistan_1 = {
+		name = "Malik Mahmud"
+		dynasty = CKU_mihrabanid
+		religion = muwalladi
+		culture = turkish
+		1419.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Transoxiana = {
+	CKU_transoxiana_1 = {
+		name = "Ulegh Beg"
+		dynasty = CKU_timurid
+		religion = muwalladi
+		culture = turkish
+		1394.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Baluchistan = {
+	CKU_baluchistan_1 = {
+		name = "Malik Kumbar"
+		dynasty = CKU_mirwari
+		religion = muwalladi
+		culture = baloch
+		1425.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Kashmir  = {
+	CKU_kashmir_1 = {
+		name = "Zayn al-'Abidin Shah"
+		dynasty = CKU_miri
+		religion = ismaili
+		culture = kashmiri
+		1399.1.1 = {
+			birth = yes
+		}
+	}
+#}
+# Ladakh = {
+	CKU_ladakh_1 = {
+		name = "Gyalpo Takpa Bomlde"
+		dynasty = CKU_namgyal
+		religion = vajrayana
+		culture = kashmiri
+		1412.1.1 = {
+			birth = yes
+		}
+	}
+#}

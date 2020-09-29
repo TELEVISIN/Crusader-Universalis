@@ -1,0 +1,13 @@
+e_timurids = {
+	color = { 186 7 37 }
+	color2 = { 186 7 37 }
+	definite_form = yes
+	landless = yes
+	
+	capital = c_more
+	
+	ai_primary_priority = {
+		add = @better_than_the_alternatives_score
+	}
+	male_names = { }
+}

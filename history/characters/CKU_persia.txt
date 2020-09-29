@@ -69,7 +69,7 @@
 		name = "Timur"
 		dynasty = CKU_timurid
 		religion = muwalladi
-		culture = trukish
+		culture = turkish
 		1336.4.9 = { 
 			birth = yes
 		}
@@ -104,7 +104,7 @@
 #}
 # Khorasan  = {
 	CKU_khorasan_1 = {
-		name = "babur bin Baysunkur"
+		name = "Babur bin Baysunkur"
 		dynasty = CKU_timurid
 		religion = muwalladi
 		culture = turkish

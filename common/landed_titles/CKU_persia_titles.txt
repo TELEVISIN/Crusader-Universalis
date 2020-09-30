@@ -4,7 +4,7 @@ e_timurids = {
 	definite_form = yes
 	landless = yes
 	
-	capital = c_more
+	capital = c_herat
 	
 	ai_primary_priority = {
 		add = @better_than_the_alternatives_score

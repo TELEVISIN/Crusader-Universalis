@@ -31,7 +31,7 @@ CKU_mirwari = {
 	culture = "baloch"
 }
 CKU_miri = {
-	name "dynn_miri"
+	name "dynn_k_miri"
 	culture = "kashmiri"
 }
 CKU_namgyal = {

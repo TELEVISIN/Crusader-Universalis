@@ -2,7 +2,6 @@
 	d_hamadan = {
 		1405.2.20 = {
 			holder = CKU_ajam_1
-			liege = 0
 		}
 	}
 	d_rayy = {
@@ -46,7 +45,6 @@
 	c_dinawar = {
 		1444.1.1 = {
 			holder = CKU_ardalan_1
-			liege = d_hamadan
 		}
 	}
 #}
@@ -54,7 +52,6 @@
 	c_luristan = {
 		1444.1.1 = {
 			holder = CKU_luristan_1
-			liege = d_hamadan
 		}
 	}
 	c_sardan = {
@@ -67,7 +64,6 @@
 	c_talish = {
 		1444.1.1 = {
 			holder = CKU_biapas_1
-			liege = 0
 		}
 	}
 	c_gilan = {
@@ -80,7 +76,6 @@
 	c_ruyan = {
 		1444.1.1 = {
 			holder = CKU_gilan_1
-			liege = 0
 		}
 	}
 #}
@@ -88,7 +83,6 @@
 	c_mazandaran = {
 		1444.1.1 = {
 			holder = CKU_mazandaran_1
-			liege = 0
 		}
 	}
 	c_baduspan = {
@@ -101,7 +95,6 @@
 	e_timurids = {
 		1405.2.20 = {
 			holder = CKU_timurids_2
-			liege = 0
 		}
 	}
 	k_khorasan = {
@@ -249,7 +242,6 @@
 	d_makran = {
 		1444.1.1 = {
 			holder = CKU_baluchistan_1
-			liege = 0
 		}
 	}
 	c_bampur = {
@@ -272,7 +264,6 @@
 	d_kasmira = {
 		1444.1.1 = {
 			holder = CKU_kashmir_1
-			liege = 0
 		}
 	}
 	c_udabhanda = {
@@ -285,7 +276,6 @@
 	d_ladakh = {
 		1444.1.1 = {
 			holder = CKU_ladakh_1
-			liege = 0
 		}
 	}
 	d_zanskar = {

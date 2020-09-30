@@ -239,6 +239,11 @@
 			holder = CKU_transoxiana_1
 		}
 	}
+	c_farava = {
+		1405.2.20 = {
+			holder = CKU_transoxiana_1
+		}
+	}
 #}
 # Baluchistan = {
 	d_makran = {

@@ -35,8 +35,8 @@
 	CKU_Biapas_1 = {
 		name = "Ala al-Din"
 		dynasty = CKU_eshaqvand
-		culture = daylamite
 		religion = muwalladi
+		culture = daylamite
 		1410.1.1 = {
 			birth = yes
 		}

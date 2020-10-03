@@ -94,11 +94,11 @@
 	}
 #}
 # timurids = {
-#	e_timurids = {
-#		1405.2.20 = {
-#			holder = CKU_timurid_1
-#		}
-#	}
+	e_persia = {
+		1405.2.20 = {
+			holder = CKU_timurid_1
+		}
+	}
 	k_khorasan = {
 		1405.2.20 = {
 			holder = CKU_timurid_1
@@ -174,8 +174,7 @@
 	d_fars = {
 		1405.2.20 = {
 			holder = CKU_fars_1
-#			liege = e_timurids
-			liege = k_khorasan
+			liege = e_persia
 		}
 	}
 	c_sif-i-umara = {
@@ -188,8 +187,7 @@
 	d_gurgan = {
 		1405.2.20 = {
 			holder = CKU_khorasan_1
-#			liege = e_timurids
-			liege = k_khorasan
+			liege = e_persia
 		}
 	}
 	c_samaiqan = {
@@ -212,8 +210,7 @@
 	d_kabul = {
 		1405.2.20 = {
 			holder = CKU_afghanistan_1
-#			liege = e_timurids
-			liege = k_khorasan
+			liege = e_persia
 		}
 	}
 	d_zabulistan = {
@@ -236,42 +233,40 @@
 	d_sistan = {
 		1405.2.20 = {
 			holder = CKU_sistan_1
-#			liege = e_timurids
-			liege = k_khorasan
+			liege = e_persia
 		}
 	}
 #}
 # Transoxiana = {
 	k_transoxiana = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
-#			liege = e_timurids
-			liege = k_khorasan
+			holder = CKU_timurid_3
+			liege = e_persia
 		}
 	}
 	d_merv = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
+			holder = CKU_timurid_3
 		}
 	}
 	c_dihistan = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
+			holder = CKU_timurid_3
 		}
 	}
 	d_nasa = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
+			holder = CKU_timurid_3
 		}
 	}
 	c_amol = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
+			holder = CKU_timurid_3
 		}
 	}
 	c_zamm = {
 		1405.2.20 = {
-			holder = CKU_transoxiana_1
+			holder = CKU_timurid_3
 		}
 	}
 #}

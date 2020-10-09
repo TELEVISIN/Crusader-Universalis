@@ -2,7 +2,7 @@
 ##d_luxembourg ###################################
 ###c_luxembourg
 2082 = {	#LUXEMBOURG
-	culture = walloon
+	culture = rhenish
 	religion = catholic
 	holding = castle_holding
 	
@@ -93,7 +93,7 @@
 
 ###c_hainaut
 2117 = {	#MONS
-	culture = walloon
+	culture = flemish
 	religion = catholic
 	holding = castle_holding
 }

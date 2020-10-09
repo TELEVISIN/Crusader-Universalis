@@ -179,6 +179,9 @@
 		should_start_with = {
 			historical_succession_access_single_heir_succession_law_trigger = yes
 		}
+		can_title_have = {
+			can_title_have_law_general_trigger = yes
+		}
 		succession = {
 			order_of_succession = inheritance
 			traversal_order = children
@@ -307,20 +310,20 @@
 
 	stadholder_succession_law = {
 		can_keep = {
-			has_flag = forced_into_stadholder
+			#has_flag = forced_into_stadholder
 		}
 		can_pass = {
-			has_flag = forced_into_stadholder
+			#has_flag = forced_into_stadholder
 		}
 		can_have = {
-			has_flag = forced_into_stadholder
+			#has_flag = forced_into_stadholder
 		}
 		should_start_with = {
-			always = no
+			government = CKU_governor_government
 		}
 		succession = {
-			order_of_succession = generate
-			pool_character_config = pool_city_succession
+			order_of_succession = election
+			election_type = governor_elective
 		}
 		flag = forced_into_stadholder
 		modifier = {

@@ -1,12 +1,38 @@
-﻿CKU_valois_bourgogne = {
+﻿CKU_luxembourg = {
+	name = "dynn_luxembourg"
+	culture = french
+}
+
+CKU_tour_auvergene = {
+	name = "dynn_tour_auvergene"
+	culture = french
+}
+
+CKU_valois_bourgogne = {
 	name = "dynn_valois_bourgogne"
 	culture = "french"
 }
 
-CKU_luxembourg = {
-	name = "dynn_luxembourg"
-	culture = french
+CKU_josne = {
+	name = "dynn_josne"
+	culture = "french"
 }
+
+CKU_juvénal_des_ursins = {
+	name = "dynn_juvénal_des_ursins"
+	culture = "french"
+}
+
+CKU_juvénal_des_ursins = {
+	name = "dynn_juvénal_des_ursins"
+	culture = "french"
+}
+
+CKU_clermont = {
+	name = "dynn_clermont"
+	culture = "french"
+}
+
 
 
 
@@ -35,6 +61,11 @@ CKU_berry = {
 	culture = ligurian
 }
 
+CKU_bogdan = {
+	name = "dynn_Bogdan"
+	culture = "vlach"
+}
+
 CKU_bueil = {
 	name = "dynn_bueil"
 	culture = french
@@ -51,11 +82,13 @@ CKU_clyte = {
 }
 
 CKU_crequy = {
+	prefix = "dynnp_de"
 	name = "dynn_crequy"
 	culture = french
 }
 
 CKU_croy = {
+	prefix = "dynnp_de"
 	name = "dynn_croy"
 	culture = french
 }
@@ -87,7 +120,7 @@ CKU_jagiellon = {
 
 CKU_de_medici = {
 	name = "dynn_de_Medici"
-	culture = florentine
+	culture = tuscan
 }
 
 CKU_foscari = {
@@ -103,6 +136,17 @@ CKU_lalaing = {
 CKU_lascaris = {
 	name = "dynn_lascaris"
 	culture = lombard
+}
+
+CKU_mecklenburg = {
+	prefix = "dynnp_von"
+	name = "dynn_Mecklenburg"
+	culture = "pommeranian"
+}
+
+CKU_orsini = {
+	name = "dynn_orsini"
+	culture = neapolitan
 }
 
 CKU_osman = {
@@ -131,19 +175,13 @@ CKU_von_Walsee = {
 	culture = "bavarian"
 }
 
-CKU_bogdan = {
-	name = "dynn_Bogdan"
-	culture = "vlach"
-}
-
-CKU_mecklenburg = {
-	prefix = "dynnp_von"
-	name = "dynn_Mecklenburg"
-	culture = "pommeranian"
-}
-
 CKU_mecklenburg_werle = {
 	prefix = "dynnp_von"
 	name = "dynn_Mecklenburg_werle"
 	culture = "pommeranian"
+}
+
+CKU_kastrioti = {
+	name = "dynn_Kastrioti"
+	culture = "albanian"
 }

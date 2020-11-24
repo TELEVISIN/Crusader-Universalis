@@ -23,18 +23,30 @@ CKU_juvénal_des_ursins = {
 	culture = "french"
 }
 
-CKU_juvénal_des_ursins = {
-	name = "dynn_juvénal_des_ursins"
-	culture = "french"
-}
-
 CKU_clermont = {
 	name = "dynn_clermont"
 	culture = "french"
 }
 
+CKU_tremoille = {
+	name = "dynn_tremoille"
+	culture = "french"
+}
 
+CKU_amboise = {
+	name = "dynn_amboise"
+	culture = "french"
+}
 
+CKU_belleville = {
+	name = "dynn_belleville"
+	culture = "french"
+}
+
+CKU_breze = {
+	name = "dynn_breze"
+	culture = "french"
+}
 
 CKU_adorno = {
 	name = "dynn_adorno"
@@ -184,4 +196,19 @@ CKU_mecklenburg_werle = {
 CKU_kastrioti = {
 	name = "dynn_Kastrioti"
 	culture = "albanian"
+}
+
+CKU_MacDonald = {
+	name = "dynn_Macdonald"
+	culture = "scots"
+}
+
+CKU_Dunbar = {
+	name = "dynn_Dunbar"
+	culture = "scots"
+}
+
+CKU_Hamilton = {
+	name = "dynn_Hamilton"
+	culture = "scots"
 }
